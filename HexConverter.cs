@@ -1,8 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
 
-public class HexConverter : MonoBehaviour
+public class HexConverter
 {
     public static float default_size = 1f;
     /// <summary>
